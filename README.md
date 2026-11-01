@@ -50,7 +50,7 @@ project/
 ```
 
 ## Running the Application
-
+Download the Metra GTFS static file from here: " https://metra.com/metra-gtfs-api " or use the schedule.Zip file provided by the developers
 ### Static Mode
 
 ```bash
